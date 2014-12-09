@@ -1,0 +1,18 @@
+.chat-wrapper {
+    padding:5px;
+}
+
+.message-icon {
+    width:50px;   
+}
+
+.message-box {
+    padding:5px 0px;
+    background-color:#F5F5F5;
+    margin:5px 0px;
+    -webkit-border-radius: 3px;
+}
+
+.message-input {
+    padding-left:0;  
+}
